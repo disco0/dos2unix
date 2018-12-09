@@ -1,2 +1,2 @@
 # dos2unix
-Dos2unix for windows
+(Another) Dos2unix for ~windows~ PowerShell
